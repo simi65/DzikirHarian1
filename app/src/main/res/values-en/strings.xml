@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DzikirHarian1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello my name is misbah I made this application to make it easier for people to read the morning and evening dhikr</string>
+    <string name="version">version</string>
+    <string name="about">About</string>
+    <string name="gambardzikir">gambardzikir</string>
+    <string name="inijudul">this is the title</string>
+    <string name="hello_blank_fragmentt">Hello my name is misbah I made this application to make it easier for people to read the morning and evening dhikr</string>
+
+    <string-array name="DoaDoaHarian">
+        <item>Doa mohon ampunan dan rahmat Allah</item>
+        <item>Doa agar tergolong orang-orang beriman</item>
+        <item>Doa agar diberikan keturunan yang shalih</item>
+        <item>Doa mohon ampunan bagi kedua orang tua dan kaum mukminin</item>
+        <item>Doa mohon ketetapan bagi diri dan keluarga dalam mendirikan shalat</item>
+        <item>Doa berlindung dari orang yang zhalim</item>
+        <item>Doa agar diterima amal ibadah dan taubat</item>
+        <item>Doa agar bisa bertawakkal hanya kepada Allah</item>
+        <item>Doa berlindung dari keburukan orang-orang kafir</item>
+        <item>Doa agar ditambahkan ilmu</item>
+        <item>Doa agar disempurnakan cahayanya</item>
+        <item>Doa memohon kebaikan dunia dan akhirat</item>
+        <item>Doa agar dijadikan hamba yang bersyukur</item>
+        <item>Doa berlindung dari setan</item>
+        <item>Doa agar hati ditetapkan dalam hidayah</item>
+        <item>Doa agar dilapangkan hati dan dimudahkan dalam urusan</item>
+        <item>Doa meminta keamanan negeri dan berlindung dari syirik</item>
+        <item>Doa berlindung dari api neraka</item>
+
+
+    </string-array>
+
+    <string name="aDoa1">  إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ</string>
+    <string name="aDoaDes1"> إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ \n\n
+    arti : “Ya Tuhanku, sesungguhnya aku berlindung kepada Engkau dari memohon kepada Engkau sesuatu yang aku tiada mengetahui (hakekat)nya. Dan sekiranya Engkau tidak memberi ampun kepadaku, dan (tidak) menaruh belas kasihan kepadaku, niscaya aku akan termasuk orang-orang yang merugi” (QS. Huud: 47).\n\n
+    </string>
+
+    <string name="aDoa2"> رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ </string>
+    <string name="aDoaDes2">رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ \n\n
+    arti : “Ya Tuhanku, berikanlah kepadaku hikmah dan masukkanlah aku ke dalam golongan orang-orang yang saleh. an jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian. dan jadikanlah aku termasuk orang-orang yang mempusakai surga yang penuh kenikmatan” (QS. Asy Syu’ara: 83-85). \n\n
+    </string>
+
+    <string name="aDoa3"> رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ </string>
+    <string name="aDoaDes3">رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ \n\n
+    arti : “Ya Tuhanku janganlah Engkau membiarkan aku hidup seorang diri dan Engkaulah Waris Yang Paling Baik” (QS. Al Anbiya: 89).\n\n
+   </string>
+
+    <string name="aDoa4"> رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ </string>
+    <string name="aDoaDes4">رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ \n\n
+    arti : “Ya Tuhan kami, beri ampunlah aku dan kedua ibu bapaku dan sekalian orang-orang mukmin pada hari terjadinya hisab (hari kiamat)” (QS. Ibrahim: 41).\n\n
+    </string>
+
+    <string name="aDoa5"> رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ </string>
+    <string name="aDoaDes5">رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ \n\n
+    arti : “Ya Tuhanku, jadikanlah aku dan anak cucuku orang-orang yang tetap mendirikan shalat, ya Tuhan kami, perkenankanlah doaku.” (QS. Ibrahim: 40)\n\n
+    </string>
+
+    <string name="aDoa6"> رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ </string>
+    <string name="aDoaDes6">Nama : رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ \n\n
+    arti : “Ya Tuhanku, selamatkanlah aku dari orang-orang yang zalim” (QS. Al Qashash: 21). \n\n
+    </string>
+
+    <string name="aDoa7"> رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ </string>
+    <string name="aDoaDes7">رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ \n\n
+    Arti : “Ya Tuhan kami terimalah daripada kami (amalan kami), dan terimalah taubat kami. Sesungguhnya Engkaulah Yang Maha Penerima taubat lagi Maha Penyayang” (QS. Al Baqarah: 127 dan 128). \n\n
+    </string>
+
+    <string name="aDoa8"> رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ </string>
+    <string name="aDoaDes8">رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ \n\n
+    arti : “Ya Tuhan kami hanya kepada Engkaulah kami bertawakkal dan hanya kepada Engkaulah kami bertaubat dan hanya kepada Engkaulah kami kembali” (QS. Al Mumtahanah: 4).\n\n
+    </string>
+
+    <string name="aDoa9"> رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ </string>
+    <string name="aDoaDes9">رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ \n\n
+    arti : “Ya Tuhan kami, janganlah Engkau jadikan kami (sasaran) fitnah bagi orang-orang kafir. Dan ampunilah kami ya Tuhan kami. Sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana” (QS. Al Mumtahanah: 5). \n\n
+    </string>
+
+    <string name="aDoa10"> رَبِّ زِدْنِي عِلْمًا </string>
+    <string name="aDoaDes10">رَبِّ زِدْنِي عِلْمًا\n\n
+    arti : “Ya Tuhanku, tambahkanlah aku ilmu” (QS. Thaha: 114). \n\n
+    </string>
+
+    <string name="aDoa11"> رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ </string>
+    <string name="aDoaDes11">رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ\n\n
+    arti : “Ya Rabb kami, sempurnakanlah bagi kami cahaya kami dan ampunilah kami; Sesungguhnya Engkau Maha Kuasa atas segala sesuatu” (QS. At Tahrim: 8). \n\n
+    </string>
+
+    <string name="aDoa12"> رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ </string>
+    <string name="aDoaDes12">رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\n
+    arti : “Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat dan peliharalah kami dari siksa neraka” (QS. Al Baqarah: 201). \n\n
+    </string>
+
+    <string name="aDoa13"> رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ </string>
+    <string name="aDoaDes13">رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ\n\n
+    arti : “Ya Tuhanku berilah aku ilham untuk tetap mensyukuri nikmat Mu yang telah Engkau anugerahkan kepadaku dan kepada dua orang ibu bapakku dan untuk mengerjakan amal saleh yang Engkau ridhai: dan masukkanlah aku dengan rahmat-Mu ke dalam golongan hamba-hamba-Mu yang saleh” (QS. An Naml: 19).\n\n
+   </string>
+
+    <string name="aDoa14"> رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ  وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ </string>
+    <string name="aDoaDes14">رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ  وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ\n\n
+    arti : “Ya Tuhanku aku berlindung kepada Engkau dari bisikan-bisikan syaitan n aku berlindung (pula) kepada Engkau ya Tuhanku, dari kedatangan mereka kepadaku” (QS. Al Mu’minun: 97-98). \n\n
+   </string>
+
+    <string name="aDoa15"> رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ </string>
+    <string name="aDoaDes15">رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ\n\n
+    arti : “Ya Tuhan kami, janganlah Engkau jadikan hati kami condong kepada kesesatan sesudah Engkau beri petunjuk kepada kami, dan karuniakanlah kepada kami rahmat dari sisi Engkau; karena sesungguhnya Engkau-lah Maha Pemberi (karunia)” (QS. Al Imran: 8). \n\n
+    </string>
+
+    <string name="aDoa16"> رَبِّ اشْرَحْ لِي صَدْرِي  وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي  يَفْقَهُوا قَوْلِي</string>
+    <string name="aDoaDes16">رَبِّ اشْرَحْ لِي صَدْرِي  وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي  يَفْقَهُوا قَوْلِي\n\n
+    arti :“Ya Tuhanku, lapangkanlah untukku dadaku,  dan mudahkanlah untukku urusanku, dan lepaskanlah kekakuan dari lidahku, supaya mereka mengerti perkataanku” (QS. Thaha: 25-28).  \n\n
+   </string>
+
+    <string name="aDoa17"> رَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ</string>
+    <string name="aDoaDes17">\n\nرَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ
+    \n arti : “Ya Tuhanku, jadikanlah negeri ini (Mekah), negeri yang aman, dan jauhkanlah aku beserta anak cucuku daripada menyembah berhala-berhala” (QS. Ibrahim: 35).
+    </string>
+
+    <string name="aDoa18"> رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا  إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًاَ </string>
+    <string name="aDoaDes18">رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا  إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا\n\n
+    arti : “Ya Tuhan kami, jauhkan azab jahannam dari kami, sesungguhnya azabnya itu adalah kebinasaan yang kekal. Sesungguhnya jahannam itu seburuk-buruk tempat menetap dan tempat kediaman” (QS. Al Furqan: 65-66).
+    </string>
+    <string name="tasbih">Tasbih</string>
+    <string name="terjemah">terjemah</string>
+
+</resources>
