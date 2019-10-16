@@ -382,6 +382,8 @@ public class DzikirPetang extends AppCompatActivity {
         recyclerviewAdapterDzikir = new RecyclerviewAdapterDzikir(arrayList1);
         recyclerViewdzikir.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
         recyclerViewdzikir.setAdapter(recyclerviewAdapterDzikir);
+                getSupportActionBar().setDisplayShowHomeEnabled(true);
+
 
 
     }
