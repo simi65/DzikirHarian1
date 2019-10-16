@@ -16,7 +16,10 @@
         <activity android:name=".MenuDoa" />
         <activity android:name=".RecyclerviewAdapterDzikir" />
         <activity android:name=".DoaHarian" />
-        <activity android:name=".DzikirPetang" />
+        <activity android:name=".DzikirPetang" >
+                        <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MenuDoa"/>
+        </activity>
         <activity android:name=".DzikirPagi" />
         <activity android:name=".RecyclerViewAdapter" />
         <activity
